@@ -1,21 +1,94 @@
-<html><head>
+<html>
+<!--<head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Zhenhao Li</title>
 	<style type="text/css">
 		/*div {display: block;}*/
 	</style>
+</head>-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhenhao Li</title>
+    <style>
+        /* General page styling */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+
+        /* Title styling */
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            margin-top: 0;
+        }
+
+        /* Side-by-side layout for the first paragraph and photo */
+        .intro-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 40px; /* Space between the text and the photo */
+        }
+
+        /* First description text */
+        .intro-text {
+            flex: 1;
+        }
+
+        .intro-text p {
+            margin-top: 0;
+        }
+
+        /* Photo styling */
+        .intro-image img {
+            width: 200px; /* Adjust size of the photo here */
+            height: auto;
+            border-radius: 8px; /* Optional: adds slightly rounded corners */
+            object-fit: cover;
+        }
+
+        /* Responsive design for mobile screens */
+        @media (max-width: 600px) {
+            .intro-row {
+                flex-direction: column-reverse; /* Puts photo above or below text on mobile */
+                align-items: center;
+            }
+        }
+    </style>
 </head>
 <body>
 
+    <!-- Title stays on its own at the top -->
+    <h1>Zhenhao Li</h1>
 
-<h1>Zhenhao Li</h1>
+    <!-- First description paragraph and photo side-by-side -->
+    <div class="intro-row">
+        <div class="intro-text">
+            <p>I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of <a href="https://math.berkeley.edu/~zworski/">Maciej Zworski</a>. I am generally interested in microlocal analysis and PDEs. I was previously a graduate student of <a href="https://math.mit.edu/~dyatlov/">Semyon Dyatlov</a> at MIT.<br><br>
+
+				<!--My CV can be found <a href="zl-cv.pdf">here</a>.-->
+				My email is zli1010 at berkeley dot edu.
+			</p>
+        </div>
+        <div class="intro-image">
+            <img src="headshot.jpg" alt="Zhenhao Li">
+        </div>
+    </div>
+
+<!--<h1>Zhenhao Li</h1>
 
 <p>	
 
 I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of <a href="https://math.berkeley.edu/~zworski/">Maciej Zworski</a>. I am generally interested in microlocal analysis and PDEs. I was previously a graduate student of <a href="https://math.mit.edu/~dyatlov/">Semyon Dyatlov</a> at MIT.<br><br>
 
-<!--My CV can be found <a href="zl-cv.pdf">here</a>. My email is zli1010 at berkeley dot edu.-->
+My CV can be found <a href="zl-cv.pdf">here</a>.
+My email is zli1010 at berkeley dot edu.-->
 
 </p>
 
@@ -173,4 +246,5 @@ I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of
 
 
 
-</body></html>
+</body>
+</html>
