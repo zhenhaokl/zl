@@ -15,7 +15,7 @@
 
 I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of <a href="https://math.berkeley.edu/~zworski/">Maciej Zworski</a>. I am generally interested in microlocal analysis and PDEs. I was previously a graduate student of <a href="https://math.mit.edu/~dyatlov/">Semyon Dyatlov</a> at MIT.<br><br>
 
-My CV can be found <a href="zl-cv.pdf">here</a>. My email is zli1010 at berkeley dot edu.
+<!--My CV can be found <a href="zl-cv.pdf">here</a>. My email is zli1010 at berkeley dot edu.-->
 
 </p>
 
