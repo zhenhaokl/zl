@@ -1,4 +1,3 @@
-# zhenhaoli.github.io
 <html><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,9 +13,9 @@
 
 <p>	
 
-I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of Maciej Zworski. I am generally interested in microlocal analysis and PDEs. I was previously a graduate student of <a href="https://math.mit.edu/~dyatlov/">Semyon Dyatlov</a> at MIT.<br><br>
+I am a Charles B. Morrey, Jr. Math Fellow at UC Berkeley under the mentorship of <a href="https://math.berkeley.edu/~zworski/">Maciej Zworski</a>. I am generally interested in microlocal analysis and PDEs. I was previously a graduate student of <a href="https://math.mit.edu/~dyatlov/">Semyon Dyatlov</a> at MIT.<br><br>
 
-My CV can be found <a href="zl-cv.pdf">here</a>. My email is zhenhao at mit dot edu.
+My CV can be found <a href="zl-cv.pdf">here</a>. My email is zli1010 at berkeley dot edu.
 
 </p>
 
@@ -171,8 +170,6 @@ My CV can be found <a href="zl-cv.pdf">here</a>. My email is zhenhao at mit dot 
 </li>
 </ul>
 
-<!-- <hr> -->
-<a href="https://accessibility.mit.edu">Accessibility</a>
 
 
 
